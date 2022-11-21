@@ -1,0 +1,82 @@
+{
+    "Produtos": [
+      {
+        "id": 1,
+        "nome": "Hambúrguer Simples",
+        "descricao": "Pão, bife de hambúrguer 90g.",
+        "preco": 8.5
+      },
+      {
+        "id": 2,
+        "nome": "X-Búrguer",
+        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo.",
+        "preco": 11.5
+      },
+      {
+        "id": 3,
+        "nome": "X-Bacon",
+        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon.",
+        "preco": 12.5
+      },
+      {
+        "id": 4,
+        "nome": "X-Tudo",
+        "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon.",
+        "preco": 20.0
+      }
+
+    ],
+    
+    "Bebidas": [
+      {
+        "nome": "Guaravita",
+        "preco": 3.5
+      },
+      
+      {
+        "nome": "Fanta Laranja/Uva 600ml",
+        "preco": 8.5
+      },
+
+      {
+        "nome": "Coca-Cola 2L",
+        "preco": 13.0
+      },
+
+      {
+        "nome": "Pepsi 600ml",
+        "preco": 8.5
+      }
+    ],
+    "Combos": [
+      {
+        "id": 1,
+        "nome": "Combo 1",
+        "descricao": "Hamburguer Simples, batata frita e coquinha de 600ml",
+        "preco": 17.5
+      },
+      {
+        "id": 2,
+        "nome": "Combo 2",
+        "descricao": "X-Hamburguer, batata frita e coquinha de 600ml",
+        "preco": 21.5 
+      },
+      
+      {
+        "id": 3,
+        "nome": "Combo 3",
+        "descricao": "X-Bacon, batata e coquinha de 600ml",
+        "preco": 25.5
+      },
+      
+      {
+        "id": 4,
+        "nome": "Combo 4",
+        "descricao": "X-Tudo, batata frita e coquinha de 600ml",
+        "preco": 40.5
+      }
+    
+    ]
+
+  }
+
